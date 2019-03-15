@@ -1,6 +1,9 @@
-My assignments in the CS50 course
+
 
 # CS50's Introduction to Computer Science Assignments
+My assignments in the CS50 course
+
+[Course Page](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ## Week 0
 
